@@ -35,6 +35,7 @@ group :test, :development do
   gem 'rspec-rails'
   gem 'rspec'
   gem 'capybara'
+  gem 'selenium-webdriver'
 end
 
 gem 'haml-rails'
